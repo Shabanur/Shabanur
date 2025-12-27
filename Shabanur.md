@@ -1,7 +1,7 @@
 Animated & Professional GitHub Profile for MD SHABANUR RAHMAN -->
 
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#00bfff;">MD SHABANUR RAHMAN</span>
+  Hi I'm <span style="color:#00bfff;">MD SHABANUR RAHMAN</span>
 </h1>
 
 <h3 align="center">
@@ -20,7 +20,7 @@ Fun Fact: I automate boring stuff and make systems smarter!
 Languages & Tools  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,kubernetes,git,github,mysql,vscode,c++" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,kubernetes,github,mysql,vscode,c++" />
 </p>
 
 Connect with Me  
