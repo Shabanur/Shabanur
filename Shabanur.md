@@ -26,7 +26,7 @@ Languages & Tools
 Connect with Me  
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/md-shabanur-rahman-95862b337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]">
+  <a href="(https://www.linkedin.com/in/md-shabanur-rahman-95862b337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Shabanur" target="_blank">
